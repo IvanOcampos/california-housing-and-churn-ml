@@ -1,0 +1,16 @@
+{
+  "id": "ivanocampos/california-housing-and-churn-ml",
+  "title": "california-housing-and-churn-ml",
+  "code_file": "california-housing-and-churn-ml.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "machine_shape": "",
+  "dataset_sources": ["camnugent/california-housing-prices"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
